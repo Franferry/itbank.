@@ -1,0 +1,22 @@
+.titulo {
+	color: rgb(255, 255, 255);
+	font-size: 3em;
+	text-align: center;
+	padding-bottom: 4em;
+	position: relative;
+	bottom: -70px;
+}
+
+h2 {
+	text-align: center;
+	color: white;
+	position: relative;
+	bottom: 40px;
+}
+
+.cuerpopag {
+	text-align: center;
+	padding: 8em;
+	margin-top: -1.5em;
+	background-color: rgb(255, 138, 239);
+}
